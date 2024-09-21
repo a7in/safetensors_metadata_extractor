@@ -29,7 +29,9 @@ This project requires Python 3.x and the following libraries:
 
 You can install the required libraries using the following command:
 
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 ## Usage:
 1. Clone the repository or download the source code.
