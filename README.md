@@ -1,18 +1,18 @@
 # Safetensors Metadata Extractor
 
 A utility for extracting metadata from `.safetensors` LoRa files and saving the information into an Excel file.
-The utility extracts the following parameters from the LoRa of those trained using kohya_ss:
-ss_steps	
-ss_unet_lr	
-ss_network_alpha	
-ss_network_dim	
-ss_sd_model_name	
-ss_learning_rate	
-ss_epoch	
-ss_network_module	
-ss_lr_scheduler	
-ss_optimizer	
-img_count
+The utility extracts the following parameters from the LoRa of those trained using kohya_ss:  
+  ss_steps  
+  ss_unet_lr  
+  ss_network_alpha  
+  ss_network_dim  
+  ss_sd_model_name  
+  ss_learning_rate  
+  ss_epoch  
+  ss_network_module  
+  ss_lr_scheduler  
+  ss_optimizer  
+  img_count  
 
 ## Features
 
